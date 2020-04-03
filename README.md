@@ -1,5 +1,7 @@
 # React Native Calculator
 
+This is a project done in react native using react hooks. Enjoy calculating.
+
 ### Commands
 
 ##### Running Locally
