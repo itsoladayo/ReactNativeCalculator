@@ -10,5 +10,5 @@ react-native start
 ```
 
 <p align="center">
-    <img alt="react-native" src="/Users/oladayoogundipe/ReactNativeCalculator/img/Simulator-Calculator.png" width="300">
+    <img alt="react-native-calculator" src="./img/Simulator-Calculator.png" width="300">
 </p>
